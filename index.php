@@ -166,7 +166,7 @@
                     <div class="card-body" id="personal-column"> <!-- Card Body opened -->
             <br>
                <h4>PERSONAL</h4>
-               <p>Birthday <span class="personal-span1">: 15th Dec. 99</span><br>
+               <p>Birthday <span class="personal-span1">: 15th December</span><br>
                 Relatinship <span class="personal-span">: Single</span><br>
                 Nationality <span class="personal-span">: Nigerian</span><br>
                 Languages   <span class="personal-span">: English, Yoruba</span><br><br>
@@ -261,17 +261,17 @@
                         </div>
                         <div class="col-6 offset-2">
                             <h6>WEBIIT</h6>
-                            <p>The seat of senior website Designer was gained at WEBIIT Digital Marketing Agency.</p>
+                            <p>Senior in website Designs at WEBIIT Digital Marketing Agency.</p>
                         </div>
                     </div> 
 
                     <div class="row">
                         <div class="col-4">
-                            <p><b> Ace Photoshop Designer</b><br><span><p>2015 - 2017</p></span></p>
+                            <p><b>Ace Photoshop Designer</b><br><span><p>2015 - 2017</p></span></p>
                         </div>
                         <div class="col-6 offset-2">
                             <h6>TATKO MULTI-LINKS</h6>
-                            <p>Ace(Master) Photoshop Designer was gained at TATKO Computer Technology ltd.</p>
+                            <p>Was a master in Photoshop Designs at TATKO Computer Technology ltd.</p>
                         </div>
                     </div>
                 </div> <!-- container closed -->
@@ -287,7 +287,7 @@
                         </div>
                         <div class="col-6 offset-2">
                             <h6>O'Level Certificate Program</h6>
-                            <p>Was achieved under proper mentorship of Arulogun College, Ovia North-East LG Edo State.</p>
+                            <p>Achieved under proper mentorship of Arulogun College, Ovia North-East LG Edo State.</p>
                         </div>
                     </div>
 
@@ -307,7 +307,7 @@
                         </div>
                         <div class="col-6 offset-2">
                             <h6>HND in Computer Science</h6>
-                            <p>Was acquired under proper mentorship of Kwara State Polytechnic, Ilorin Kwara State.</p>
+                            <p>Acquired under proper mentorship of Kwara State Polytechnic, Ilorin.</p>
                         </div>
                     </div>
                 </div> <!-- container closed -->
@@ -340,6 +340,6 @@
     </div> <!-- container closed --> <br><br>
 
     <div class="footer" align="center" style="color:blue">
-        <p>©️ Copyright: <span><a href="https://linktr.ee/ridwanazeez" style="font-size: 0.8rem; text-decoration:none;">Ridwan Azeez, 2022</a></span></p>
+        <p style="text-align:center;">©️ Copyright: <span><a href="https://linktr.ee/ridwanazeez" style="font-size: 0.8rem; text-decoration:none;">Ridwan Azeez, 2022</a></span></p>
     </div>
 </body>
