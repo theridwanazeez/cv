@@ -1,0 +1,62 @@
+.card-link p{padding: 5px; background-color: darkblue;}
+       .card-link a{color:white; text-decoration:none; }
+       .personal-span{padding-left: 1.5rem;}
+       .personal-span1{padding-left: 2.7rem;}
+       #personal-column{background-color: lightgray; border: none; border-radius: 0px;}
+       p{font-size:1rem; text-align: justify;}
+       .checked{color:yellow;}
+       #rateme1{margin-left:1rem} #rateme2{margin-left:3.8rem} #rateme3{margin-left:3.4rem}
+       #rateme4{margin-left:1.4rem} #rateme5{margin-left:3.1rem} #rateme6{margin-left:2.8rem}
+       h6{color: blue;}
+    .sm-icon{width: 2rem; height: 2rem;}  
+    .hobbies p{padding: 10px;} 
+    body{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+/* Animations */
+       #full-name{
+           -webkit-animation-name: fullname;
+           -webkit-animation-duration: 3s;
+            animation-name: fullname;
+            animation-duration: 3s;
+       }
+       @-webkit-keyframes fullname{
+           0% {margin-left: 6rem; opacity:0.1;}
+           100% {margin-left: 0rem; opacity:1;}
+       }
+       @keyframes fullname{
+            0% {margin-left: 6rem; opacity:0.1;}
+           100% {margin-left: 0rem; opacity:1;}
+       }
+    
+        #skill-line{
+            -webkit-animation-name: skillline;
+           -webkit-animation-duration: 4s;
+            animation-name:skillline;
+            animation-duration: 4s;
+       }
+       @-webkit-keyframes skillline{
+           0% {margin-top: 4rem; opacity: 0.1;}
+           100% {margin-top: 0rem; opacity: 1;}
+       }
+       @keyframes skillline{
+            0% {margin-top: 4rem; opacity: 0.1;}
+           100% {margin-top: 0rem; opacity: 1;}
+       }
+
+       .img-fluid{
+        -webkit-animation-name: img;
+           -webkit-animation-duration: 4s;
+            animation-name:img;
+            animation-duration: 4s;
+       }
+       @-webkit-keyframes img{
+           0% {opacity: 0}
+           100% {opacity: 1}
+       }
+       @keyframes img{
+            0% {opacity: 0}
+           100% {opacity: 1}
+       }
