@@ -13,6 +13,11 @@
     body{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
+.bg-needed {
+  background-image: url('bg-needed.gif');
+  background-size: cover;
+  
+}
 
 
 /* Animations */
